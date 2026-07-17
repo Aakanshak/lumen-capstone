@@ -1,0 +1,7 @@
+release_date,release_name,release_type,app_version,affected_products,release_notes,expected_signal
+2025-02-10,Audio Tune,firmware,5.3.2,LUMEN-BUDS-2,Improved equalizer and call audio,small audio improvement
+2025-06-15,Smart Power 5.4,app_and_firmware,5.4.0,LUMEN-BUDS-2|LUMEN-WATCH-X,Background sync and performance redesign,battery and performance complaint spike
+2025-09-28,Hotfix 5.4.2,app_and_firmware,5.4.2,LUMEN-BUDS-2|LUMEN-WATCH-X,Reduced background polling and crash rate,partial recovery
+2026-02-01,Stability 5.5,app_and_firmware,5.5.0,ALL,Connection reliability and battery optimization,further recovery
+2026-05-12,Home Routines,app,5.6.0,LUMEN-HUB-MINI,Expanded automation routines,small setup complaint increase
+

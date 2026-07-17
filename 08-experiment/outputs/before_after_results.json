@@ -1,0 +1,14 @@
+{
+  "fix_date": "2026-02-01",
+  "before_volume": 2575,
+  "after_volume_simulated": 945,
+  "volume_reduction": 0.633,
+  "before_mean_sentiment": -0.1871,
+  "after_mean_sentiment": 0.0915,
+  "sentiment_change": 0.2786,
+  "ci_95": [
+    0.2406,
+    0.3184
+  ],
+  "welch_p_value": 0.0
+}

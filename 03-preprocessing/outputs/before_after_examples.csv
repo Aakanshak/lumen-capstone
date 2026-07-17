@@ -1,0 +1,31 @@
+record_id,source,date,product_sku,star_rating,text,clean_text,raw_length,clean_length
+ST-013554,support_tickets,2026-06-27,UNSPECIFIED,,"For the price, the design hurts after an hour.",price design hurts hour,9,4
+PR-009428,product_reviews,2025-08-30,LUMEN-WATCH-X,3,"Not gonna lie, the audio volume is too low.",not gonna_NEG lie_NEG audio volume too low,9,7
+PR-000200,product_reviews,2026-02-09,LUMEN-HUB-MINI,4,"Since yesterday, the sync drops the connection. Hope the next patch sorts it out.",since yesterday sync drops connection hope next patch sorts out,14,10
+PR-012448,product_reviews,2026-05-16,LUMEN-WATCH-X,2,"I love how this feels premium, but the screen keeps crashing.",i love feels premium screen keeps crashing,11,7
+AR-001490,app_store_reviews,2025-07-28,LUMEN-APP,5,"Since yesterday, the screen has excellent sound. Expected better from Lumen.",since yesterday screen has excellent sound expected better from lumen,11,10
+AR-004725,app_store_reviews,2026-04-03,LUMEN-APP,2,"Three weeks in, the pairing won't sync. Suppoort, can you help?",three weeks pairing will not sync_NEG suppoort can you help,11,10
+PR-010823,product_reviews,2026-06-11,LUMEN-BUDS-2,3,"Since yessterday, the login onboarding is broken. Would not recommend right now.",since yessterday login onboarding broken would not recommend_NEG right_NEG now_NEG,12,10
+AR-011499,app_store_reviews,2025-04-16,LUMEN-APP,4,"After the latest update, the wifi looks fantastic. Would not recommend right now.",latest update wifi looks fantastic would not recommend_NEG right_NEG now_NEG,13,10
+PR-004145,product_reviews,2026-04-16,LUMEN-HUB-MINI,2,"Not gonna lie, the noise cancellation audio cuts out. This is getting old.",not gonna_NEG lie_NEG noise cancellation audio cuts out getting old,13,10
+ST-016959,support_tickets,2025-07-07,UNSPECIFIED,,"Quick update, the battery won't hold a charge. This is gettting old.",quick update battery will not hold_NEG charge_NEG gettting old,12,9
+AR-005107,app_store_reviews,2025-10-06,LUMEN-APP,2,"After the latest update, the audio sound crackles.",latest update audio sound crackles,8,5
+AR-000696,app_store_reviews,2025-07-07,LUMEN-APP,4,"I love how this works exactly as promised, but the battery won't hold a charge. Support, can you help?",i love works exactly as promised battery will not hold_NEG charge_NEG support can you help,19,15
+PR-006189,product_reviews,2025-02-16,LUMEN-BUDS-2,1,"Honestly, the battery life barely lasts 2 hours. This is getting old.",honestly battery life barely lasts hours getting old,12,8
+PR-001415,product_reviews,2025-07-06,LUMEN-BUDS-2,3,"Not gonna lie, the power drain drains whle idle. Also, the replacement package was already open. Would not recommend right now.",not gonna_NEG lie_NEG power drain drains whle idle also replacement package already open would not recommend_NEG right_NEG now_NEG,21,18
+PR-018472,product_reviews,2025-04-10,LUMEN-BUDS-2,2,"Not gonna lie, the sync forgets my device. Expected better from Lumen.",not gonna_NEG lie_NEG sync forgets device expected better from lumen,12,10
+ST-009283,support_tickets,2025-11-08,UNSPECIFIED,,"Honestly, the installation account linking fails. Please fix this.",honestly installation account linking fails please fix,9,7
+PR-015178,product_reviews,2025-04-01,LUMEN-WATCH-X,1,"Sadly, the microphone sound crackles. Also, the app freezes every few minutes.",sadly microphone sound crackles also app freezes few minutes,12,9
+ST-014305,support_tickets,2026-02-17,UNSPECIFIED,,"I love how this was easy to set up, but the battery life barely lasts 2 hours!! Hope the next patch sorts it out.",i love easy set up battery life barely lasts hours hope next patch sorts out,24,15
+PR-012610,product_reviews,2025-03-01,LUMEN-HUB-MINI,3,"I love how this has excellent sound, but the delivery package was already open. This is getting old.",i love has excellent sound delivery package already open getting old,18,11
+PR-012145,product_reviews,2026-06-19,LUMEN-BUDS-2,1,"After the latest update, the account account linking fails. Also, the power drain needs charging twice a day.",latest update account account linking fails also power drain needs charging twice day,18,13
+PR-006114,product_reviews,2025-07-16,LUMEN-BUDS-2,2,"For the price, the pairing refuses to pair.",price pairing refuses pair,8,4
+PR-015909,product_reviews,2025-11-28,LUMEN-BUDS-2,3,"Not gonna lie, the sync drops the connection... Hope the next patch sorts it out. ugh",not gonna_NEG lie_NEG sync drops connection hope next patch sorts out ugh,16,12
+PR-000822,product_reviews,2025-06-21,LUMEN-WATCH-X,5,"Not gonna lie, the login works exactly as promised. This is getting old.",not gonna_NEG lie_NEG login works exactly as promised getting old,13,10
+PR-015119,product_reviews,2025-02-04,LUMEN-WATCH-X,5,"For the price, the audio looks fantastic.",price audio looks fantastic,7,4
+PR-013467,product_reviews,2025-09-05,LUMEN-HUB-MINI,1,"Quick update, the firmware became painfully slow.",quick update firmware became painfully slow,7,6
+ST-006498,support_tickets,2025-10-12,UNSPECIFIED,,"After the latest update, the wifi won't sync. This is getting old.",latest update wifi will not sync_NEG getting old,12,8
+AR-004112,app_store_reviews,2025-04-17,LUMEN-APP,2,"Three weeks in, the screen screen is hard to read. Also, the box replacement never came.",three weeks screen screen hard read also box replacement not came_NEG,16,11
+ST-010189,support_tickets,2026-04-25,UNSPECIFIED,,"Since yesterday, the login instructions are confusing. Please fix this.",since yesterday login instructions confusing please fix,10,7
+ST-017238,support_tickets,2026-04-06,UNSPECIFIED,,"I love how this works exactly as promised, but the delivery wong item was shipped. Also, the setup account linking fails.",i love works exactly as promised delivery wong item shipped also setup account linking fails,21,15
+ST-013110,support_tickets,2025-05-29,UNSPECIFIED,,"Since yesterday, the screen keeps crashing.",since yesterday screen keeps crashing,6,5

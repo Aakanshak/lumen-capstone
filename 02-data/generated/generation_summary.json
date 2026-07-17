@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "date_range": [
+    "2025-01-01",
+    "2026-06-30"
+  ],
+  "records": {
+    "product_reviews": 20000,
+    "support_tickets": 18000,
+    "app_store_reviews": 12000
+  },
+  "total_records": 50000,
+  "messiness_rates": {
+    "positive_only": 0.1653,
+    "mixed_sentiment": 0.1433,
+    "sarcasm": 0.0457,
+    "typos": 0.1163,
+    "multi_issue": 0.2354
+  },
+  "issue_mentions": {
+    "battery": 13321,
+    "performance": 10135,
+    "connectivity": 10018,
+    "setup": 9397,
+    "audio": 7841,
+    "design": 7435,
+    "delivery": 5752
+  },
+  "planted_signal": {
+    "release_date": "2025-06-15",
+    "pre_release_battery_share": 0.2073,
+    "spike_window_battery_share": 0.4277,
+    "relative_lift": 1.0639,
+    "note": "Generator-label audit only; downstream recovery must use text-derived topics."
+  },
+  "support_untagged_rate": 0.8446
+}

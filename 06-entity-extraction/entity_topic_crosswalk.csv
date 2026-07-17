@@ -1,0 +1,121 @@
+entity,topic,vader_sentiment,feedback_count,mean_sentiment
+LUMEN-APP,Audio quality,negative,1532,-0.6633953002610966
+LUMEN-APP,Audio quality,neutral,139,-0.00108057553956838
+LUMEN-APP,Audio quality,positive,898,0.4520451002227171
+LUMEN-APP,Battery & charging,negative,1947,-0.6067077555213148
+LUMEN-APP,Battery & charging,neutral,290,-0.004835517241379343
+LUMEN-APP,Battery & charging,positive,1153,0.3935417172593235
+LUMEN-APP,Connectivity & sync,negative,1618,-0.6318169962917182
+LUMEN-APP,Connectivity & sync,neutral,161,-0.0025279503105590535
+LUMEN-APP,Connectivity & sync,positive,728,0.3785936813186813
+LUMEN-APP,Delivery & replacement,negative,202,-0.7140599009900991
+LUMEN-APP,Delivery & replacement,neutral,24,-0.0010166666666666985
+LUMEN-APP,Delivery & replacement,positive,76,0.3490210526315789
+LUMEN-APP,Design & comfort,negative,1488,-0.6353523521505376
+LUMEN-APP,Design & comfort,neutral,245,-0.0035938775510204373
+LUMEN-APP,Design & comfort,positive,1151,0.4531697654213727
+LUMEN-APP,Other,negative,53,-0.40319056603773584
+LUMEN-APP,Other,neutral,42,0.005316666666666662
+LUMEN-APP,Other,positive,294,0.5069925170068027
+LUMEN-APP,Performance & crashes,negative,3024,-0.6755752645502646
+LUMEN-APP,Performance & crashes,neutral,190,-0.00523736842105267
+LUMEN-APP,Performance & crashes,positive,769,0.3100908972691807
+LUMEN-APP,Setup & account,negative,1841,-0.7019985334057578
+LUMEN-APP,Setup & account,neutral,129,0.002317829457364302
+LUMEN-APP,Setup & account,positive,572,0.4206194055944056
+LUMEN-BUDS-2,Audio quality,negative,860,-0.6488296511627908
+LUMEN-BUDS-2,Audio quality,neutral,81,-0.008029629629629666
+LUMEN-BUDS-2,Audio quality,positive,674,0.48209436201780415
+LUMEN-BUDS-2,Battery & charging,negative,1099,-0.5892466787989081
+LUMEN-BUDS-2,Battery & charging,neutral,179,-0.0007106145251396916
+LUMEN-BUDS-2,Battery & charging,positive,907,0.4180524807056229
+LUMEN-BUDS-2,Connectivity & sync,negative,918,-0.5915311546840959
+LUMEN-BUDS-2,Connectivity & sync,neutral,121,-0.005163636363636405
+LUMEN-BUDS-2,Connectivity & sync,positive,612,0.4068875816993464
+LUMEN-BUDS-2,Delivery & replacement,negative,703,-0.6708714082503556
+LUMEN-BUDS-2,Delivery & replacement,neutral,94,-0.002686170212765985
+LUMEN-BUDS-2,Delivery & replacement,positive,365,0.4123005479452055
+LUMEN-BUDS-2,Design & comfort,negative,876,-0.6202434931506849
+LUMEN-BUDS-2,Design & comfort,neutral,140,0.0005199999999999748
+LUMEN-BUDS-2,Design & comfort,positive,851,0.46529459459459455
+LUMEN-BUDS-2,Other,negative,37,-0.4326648648648649
+LUMEN-BUDS-2,Other,neutral,9,0.0010555555555555403
+LUMEN-BUDS-2,Other,positive,68,0.47049411764705884
+LUMEN-BUDS-2,Performance & crashes,negative,802,-0.6691487531172069
+LUMEN-BUDS-2,Performance & crashes,neutral,51,-0.00023529411764709523
+LUMEN-BUDS-2,Performance & crashes,positive,279,0.3662218637992832
+LUMEN-BUDS-2,Setup & account,negative,888,-0.6626108108108109
+LUMEN-BUDS-2,Setup & account,neutral,89,0.009287640449438172
+LUMEN-BUDS-2,Setup & account,positive,364,0.4574848901098901
+LUMEN-HUB-MINI,Audio quality,negative,521,-0.612468905950096
+LUMEN-HUB-MINI,Audio quality,neutral,56,-0.0021267857142857455
+LUMEN-HUB-MINI,Audio quality,positive,348,0.4828844827586207
+LUMEN-HUB-MINI,Battery & charging,negative,641,-0.5639308892355694
+LUMEN-HUB-MINI,Battery & charging,neutral,113,0.0009061946902654568
+LUMEN-HUB-MINI,Battery & charging,positive,499,0.4222599198396793
+LUMEN-HUB-MINI,Connectivity & sync,negative,561,-0.5771875222816399
+LUMEN-HUB-MINI,Connectivity & sync,neutral,56,0.0007607142857142413
+LUMEN-HUB-MINI,Connectivity & sync,positive,369,0.40459945799457997
+LUMEN-HUB-MINI,Delivery & replacement,negative,390,-0.6320789743589744
+LUMEN-HUB-MINI,Delivery & replacement,neutral,53,-0.0017301886792453036
+LUMEN-HUB-MINI,Delivery & replacement,positive,221,0.4186678733031674
+LUMEN-HUB-MINI,Design & comfort,negative,515,-0.6041231067961165
+LUMEN-HUB-MINI,Design & comfort,neutral,86,0.0017418604651162509
+LUMEN-HUB-MINI,Design & comfort,positive,498,0.4821299196787148
+LUMEN-HUB-MINI,Other,negative,15,-0.49613333333333337
+LUMEN-HUB-MINI,Other,neutral,6,-0.0029666666666666804
+LUMEN-HUB-MINI,Other,positive,41,0.5349073170731707
+LUMEN-HUB-MINI,Performance & crashes,negative,463,-0.6494222462203024
+LUMEN-HUB-MINI,Performance & crashes,neutral,24,0.0008083333333332998
+LUMEN-HUB-MINI,Performance & crashes,positive,145,0.3820703448275862
+LUMEN-HUB-MINI,Setup & account,negative,498,-0.6514512048192771
+LUMEN-HUB-MINI,Setup & account,neutral,35,0.004631428571428541
+LUMEN-HUB-MINI,Setup & account,positive,229,0.4459589519650655
+LUMEN-WATCH-X,Audio quality,negative,632,-0.6521003164556962
+LUMEN-WATCH-X,Audio quality,neutral,53,-0.0015132075471698428
+LUMEN-WATCH-X,Audio quality,positive,527,0.4693248576850095
+LUMEN-WATCH-X,Battery & charging,negative,829,-0.5932897466827503
+LUMEN-WATCH-X,Battery & charging,neutral,131,-0.001732061068702317
+LUMEN-WATCH-X,Battery & charging,positive,726,0.42889476584022035
+LUMEN-WATCH-X,Connectivity & sync,negative,706,-0.6068073654390935
+LUMEN-WATCH-X,Connectivity & sync,neutral,75,-0.0022000000000000418
+LUMEN-WATCH-X,Connectivity & sync,positive,479,0.40842004175365343
+LUMEN-WATCH-X,Delivery & replacement,negative,466,-0.6674699570815451
+LUMEN-WATCH-X,Delivery & replacement,neutral,72,-0.0007138888888889162
+LUMEN-WATCH-X,Delivery & replacement,positive,273,0.44689487179487175
+LUMEN-WATCH-X,Design & comfort,negative,661,-0.6202350983358548
+LUMEN-WATCH-X,Design & comfort,neutral,106,-0.00025471698113210437
+LUMEN-WATCH-X,Design & comfort,positive,661,0.47424024205748866
+LUMEN-WATCH-X,Other,negative,21,-0.36222857142857146
+LUMEN-WATCH-X,Other,neutral,3,0.0
+LUMEN-WATCH-X,Other,positive,54,0.48705
+LUMEN-WATCH-X,Performance & crashes,negative,594,-0.6964437710437711
+LUMEN-WATCH-X,Performance & crashes,neutral,49,0.0008755102040815985
+LUMEN-WATCH-X,Performance & crashes,positive,207,0.39611207729468595
+LUMEN-WATCH-X,Setup & account,negative,653,-0.6777116385911179
+LUMEN-WATCH-X,Setup & account,neutral,54,-0.0020592592592592884
+LUMEN-WATCH-X,Setup & account,positive,267,0.4393516853932584
+UNSPECIFIED,Audio quality,negative,2215,-0.6618877652370203
+UNSPECIFIED,Audio quality,neutral,166,-0.007554216867469921
+UNSPECIFIED,Audio quality,positive,698,0.334847564469914
+UNSPECIFIED,Battery & charging,negative,2752,-0.5917175145348837
+UNSPECIFIED,Battery & charging,neutral,416,-0.004096153846153882
+UNSPECIFIED,Battery & charging,positive,1424,0.32162366573033707
+UNSPECIFIED,Connectivity & sync,negative,2414,-0.6008638773819387
+UNSPECIFIED,Connectivity & sync,neutral,232,-0.00487456896551729
+UNSPECIFIED,Connectivity & sync,positive,911,0.2911050493962678
+UNSPECIFIED,Delivery & replacement,negative,2015,-0.6639807444168735
+UNSPECIFIED,Delivery & replacement,neutral,206,-2.2330097087403768e-05
+UNSPECIFIED,Delivery & replacement,positive,549,0.3150027322404371
+UNSPECIFIED,Design & comfort,negative,2218,-0.6249477006311993
+UNSPECIFIED,Design & comfort,neutral,299,0.001840468227424717
+UNSPECIFIED,Design & comfort,positive,993,0.34828459214501506
+UNSPECIFIED,Other,negative,59,-0.5335355932203389
+UNSPECIFIED,Other,neutral,9,0.0006222222222221934
+UNSPECIFIED,Other,positive,40,0.41446249999999996
+UNSPECIFIED,Performance & crashes,negative,2113,-0.6726650260293422
+UNSPECIFIED,Performance & crashes,neutral,105,-0.0020000000000000443
+UNSPECIFIED,Performance & crashes,positive,403,0.2619171215880893
+UNSPECIFIED,Setup & account,negative,2968,-0.6767840633423181
+UNSPECIFIED,Setup & account,neutral,186,0.001743548387096732
+UNSPECIFIED,Setup & account,positive,554,0.30393808664259925

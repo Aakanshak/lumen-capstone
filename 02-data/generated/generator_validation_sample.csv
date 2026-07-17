@@ -1,0 +1,101 @@
+source,date,text,planted_issues,is_mixed,is_sarcastic,has_typo,is_positive,record_id
+product_reviews,2026-06-10,"Sadly, the sync disconnects at random. Also, the setup login never completes.",connectivity|setup,False,False,False,False,PR-012925
+product_reviews,2025-05-04,"Not gonna lie, the setup instructions are confusing. Support, can you help?",setup,False,False,False,False,PR-011262
+support_tickets,2025-09-16,"Siince yesterday, the sync drops the connection. This is getting old.",connectivity,False,False,True,False,ST-000480
+product_reviews,2026-02-01,"Sadly, the screen fit is uncomfortable. Hope the next patch sorts it out.",design,False,False,False,False,PR-014654
+product_reviews,2026-05-02,"After the latest update, the performance lags after every tap.",performance,False,False,False,False,PR-009762
+support_tickets,2025-12-28,"For the price, the bluetooth drops the connection... Please fix this.",connectivity,False,False,False,False,ST-017063
+app_store_reviews,2025-11-24,"Not gonna lie, the battery life won't hold a charge.",battery,False,False,False,False,AR-006402
+app_store_reviews,2025-04-26,"For the price, the screen lags after every tap.",performance,False,False,False,False,AR-003511
+support_tickets,2025-06-22,"Three weeks in, the bluetooth forgets my device. Would not recommend right now.",connectivity,False,False,False,False,ST-016186
+support_tickets,2026-02-27,"Not gonna lie, the battery life drains while idle!! Please fix this.",battery,False,False,False,False,ST-010933
+product_reviews,2025-02-01,"Sadly, the setup account linking fails. This is getting old.",setup,False,False,False,False,PR-003046
+support_tickets,2025-06-20,"Three weeks in, the power drain dies before lunch. Support, can you help?",battery,False,False,False,False,ST-001983
+support_tickets,2025-10-19,"Three weeks in, the pairing forgets my device... Support, can you help?",connectivity,False,False,False,False,ST-000080
+product_reviews,2025-04-10,"After the latest update, the battery needs charging twice a day. Also, the sync forgets my device. Also, the case buttons feel cheap. Would not recommend right now.",battery|connectivity|design,False,False,False,False,PR-004619
+product_reviews,2025-08-25,"After the latest update, the account has excellent sound.",setup,False,False,False,True,PR-013614
+product_reviews,2025-09-29,"Since yesterday, the interface has excellent sound. Please fix this.",performance,False,False,False,True,PR-003341
+product_reviews,2025-12-12,"Quick update, the battery drains while idle. Hope the next patch sorts it out.",battery,False,False,False,False,PR-010650
+support_tickets,2025-05-28,"Not gonna lie, the firmware became painfully slow. Also, the noise cancellation microphone sounds muffled. Also, the shipping replacement never came.",performance|audio|delivery,False,False,False,False,ST-012924
+product_reviews,2025-11-05,"Honestly, the sync feels prmium.",connectivity,False,False,True,True,PR-017007
+product_reviews,2026-04-01,"Sadly, the charging needs charging twice a day. Expected better from Lumen.",battery,False,False,False,False,PR-014651
+product_reviews,2025-08-22,"Not gonna lie, the battery life is surprisingly responsive. Expectd better from Lumen.",battery,False,False,True,True,PR-018535
+support_tickets,2025-12-12,"Quick update, the screen freezes every few minutes. Also, the design case scratches easily. This is getting old.",performance|design,False,False,False,False,ST-017389
+app_store_reviews,2025-05-31,"Three weeks in, the charging feels premium!! Hope the next patch sorts it out.",battery,False,False,False,True,AR-004958
+app_store_reviews,2025-01-18,"Since yesterday, the battery life made my routine easier. Expected better from Lumen.",battery,False,False,False,True,AR-002506
+product_reviews,2025-07-06,"After the latest update, the charging won't hold a charge. Hope the next patch sorts it out.",battery,False,False,False,False,PR-014443
+app_store_reviews,2025-09-26,Five stars for making sure the screen lags after every tap. Just kidding.,performance,False,True,False,False,AR-007603
+app_store_reviews,2025-11-20,"Five stars for making sure the sync won't sync. Just kidding. Also, the charge dies before lunch. Support, can you help?",connectivity|battery,False,True,False,False,AR-007157
+support_tickets,2026-04-09,"Amazing job, Lumen—now my shipping replacement never came. Also, the login login never completes. Expected better from Lumen.",delivery|setup,False,True,False,False,ST-006108
+product_reviews,2025-10-16,"Amazing job, Lumen—now my battery won't hold a charge. Support, can you help?",battery,False,True,False,False,PR-008324
+product_reviews,2026-04-25,"Five stars for making sure the login account linking fails. Just kidding. Also, the battery life drains while idle.",setup|battery,False,True,False,False,PR-012255
+app_store_reviews,2025-11-01,"Five stars for making sure the onboarding setup loops forever. Just kidding. Also, the battery barely lsts 4 hours. Support, can you help?",setup|battery,False,True,True,False,AR-006537
+product_reviews,2025-10-13,Exactly what I wanted: a device that fit is uncomfortable. This is getting old.,design,False,True,False,False,PR-007410
+product_reviews,2025-11-11,"Amazing job, Lumen—now my app freezes every few minutes. Expected better from Lumen.",performance,False,True,False,False,PR-011170
+product_reviews,2026-02-15,"Love paying premium prices so the onboarding login never completes. Also, the bluetooth drops the connection. Please fix this.",setup|connectivity,False,True,False,False,PR-009636
+product_reviews,2025-12-04,"Exactly what I wanted: a device that needs charging twice a day. Also, the design screen is hard to read. Would not recommend right now.",battery|design,False,True,False,False,PR-006230
+support_tickets,2026-04-02,Love paying premium prices so the case hurts after an hour. Would not recommend right now.,design,False,True,False,False,ST-004948
+support_tickets,2026-04-12,Exactly what I wanted: a device that forgets my device. Please fix this.,connectivity,False,True,False,False,ST-010171
+support_tickets,2026-04-16,Five stars for making sure the delivery wrong item was shipped. Just kidding.,delivery,False,True,False,False,ST-014573
+product_reviews,2025-06-04,Love paying premium prices so the design screen is hard to read. Would not recommend right now.,design,False,True,False,False,PR-010480
+support_tickets,2025-09-10,"Amazing job, Lumen—now my onboarding setup loops forever. Please fix this.",setup,False,True,False,False,ST-016434
+product_reviews,2026-02-24,Five stars for making sure the screen freezes every few minutes. Just kidding.,performance,False,True,False,False,PR-016983
+support_tickets,2026-04-15,"Amazing job, Lumen—now my sync forgets my device... Would not recommend right now.",connectivity,False,True,False,False,ST-015822
+product_reviews,2025-10-02,Love paying premium prices so the noise cancellation noise cancellation got worse. This is getting old.,audio,False,True,False,False,PR-013742
+support_tickets,2026-05-13,"Amaziing job, Lumen—now my login login never completes. Also, the shipping wrong item was shipped. Expected better from Lumen.",setup|delivery,False,True,True,False,ST-006645
+support_tickets,2025-09-18,Love paying premium prices so the charge drains while idle. Hope the next patch sorts it out.,battery,False,True,False,False,ST-013536
+product_reviews,2025-10-11,Exactly what I wanted: a device that instructions are confusing.,setup,False,True,False,False,PR-009162
+product_reviews,2025-05-04,"Love paying premium prices so the delivery box was damaged. Also, the volume microphone sounds muffled. Also, the interface lags after every tap.",delivery|audio|performance,False,True,False,False,PR-014975
+support_tickets,2025-10-01,Five stars for making sure the onboarding onboarding is broken. Just kidding.,setup,False,True,False,False,ST-012575
+support_tickets,2026-03-28,Exactly what I wanted: a device that wrong item was shipped.,delivery,False,True,False,False,ST-014519
+product_reviews,2025-04-26,"Exactly what I wanted: a device that refuses to pair. Also, the screen freeezes every few minutes. This is getting old.",connectivity|performance,False,True,True,False,PR-015732
+app_store_reviews,2025-01-15,"I love how this fits perfectly, but the login account linking fails. Also, the volume sound crackles. This is getting old. smh",setup|audio,True,False,False,False,AR-008207
+app_store_reviews,2025-10-31,"I love how this looks fantastic, but the onboarding login never completes. Would not recommend right now.",setup,True,False,False,False,AR-001230
+support_tickets,2025-02-01,"I love how this was easy to set up, but the shipping replacement never came. Also, the wifi drops the connection. This is getting old.",delivery|connectivity,True,False,False,False,ST-016482
+support_tickets,2025-03-07,"I love how this has excellent sound, but the app lags after every tap. Hope the next patch sorts it out.",performance,True,False,False,False,ST-000170
+product_reviews,2025-07-30,"I love how this was easy to set up, but the fit case scratches easily. This is getting old.",design,True,False,False,False,PR-019330
+product_reviews,2026-04-28,"I love how this feels premium, but the replacement package was already open. Also, the sound noise cancellation got worse. Also, the installation setup loops forever. Support, can you help?",delivery|audio|setup,True,False,False,False,PR-012686
+product_reviews,2025-04-16,"I love how this fits perfectly, but the shipping box was damaged. Also, the firmware became painully slow. This is getting old.",delivery|performance,True,False,True,False,PR-018657
+app_store_reviews,2025-07-04,"I love how this works exactly as promised, but the onboarding seetup loops forever.",setup,True,False,True,False,AR-006708
+support_tickets,2025-06-13,"I love how this feels premium, but the installation instructions are confusing. This is getting old.",setup,True,False,False,False,ST-014892
+support_tickets,2026-01-19,"I love how this works exactly as promised, but the sync drops the connection. Also, the charging drains while idle. Support, can you help?",connectivity|battery,True,False,False,False,ST-007102
+support_tickets,2026-05-08,"I love how this fits perfectly, but the microphone noise cancellation got worse. Also, the design buttons feel cheap. Hope the next patch sorts it out.",audio|design,True,False,False,False,ST-015751
+support_tickets,2025-08-31,"I love how this fits perfectly, but the battery barely lasts 6 hours. Expected better from Lumen.",battery,True,False,False,False,ST-001264
+support_tickets,2025-02-28,"I love how this is surprisingly responsive, but the wifi won't sync. Would not recommend right now.",connectivity,True,False,False,False,ST-000117
+app_store_reviews,2025-12-04,"I love how this is surprisingly responsive, but the setup onboarding is broken. Also, the app freezes every few minutes.",setup|performance,True,False,False,False,AR-001579
+product_reviews,2025-01-09,"I love how this fits perfectly, but the sync rfuses to pair. Please fix this.",connectivity,True,False,True,False,PR-003055
+support_tickets,2026-03-06,"I love how this was easy to set up, but the onboarding login never completes. Also, the bluetooth forgets my device. This is getting old.",setup|connectivity,True,False,False,False,ST-014365
+app_store_reviews,2025-07-15,"I love how this has excellent sound, but the screen lags after every tap. Also, the battery life barely lasts 2 hours. Would not recommend right now. ugh",performance|battery,True,False,False,False,AR-004409
+product_reviews,2025-05-18,"I love how this feels premium, but the setup account linking fails.",setup,True,False,False,False,PR-012467
+support_tickets,2026-02-15,"I love how this was easy to set up, but the setup login never completes. Also, the screen screen is hard to read. Hope the next patch sorts it out.",setup|design,True,False,False,False,ST-011572
+product_reviews,2025-10-16,"I love how this made my routine easier, but the screen case scratches easily. smh",design,True,False,False,False,PR-011079
+product_reviews,2026-03-08,"I love how this was easy to set up, but the fit hurts after an hour.",design,True,False,False,False,PR-019187
+app_store_reviews,2026-05-01,"I love how this looks fantastic, but the microphone noise cancellation got worse. Support, can you help?",audio,True,False,False,False,AR-007868
+app_store_reviews,2026-03-14,"I love how this feels premium, but the performance freezes every few minutes.",performance,True,False,False,False,AR-007274
+support_tickets,2026-03-02,"I love how this was easy to set up, but the power drain drains whiile idle.",battery,True,False,True,False,ST-001180
+support_tickets,2025-09-04,"I love how this has excellent sound, but the interface became painfully slow. Also, the power drain barely lasts 3 hours. This is getting old. smh",performance|battery,True,False,False,False,ST-011853
+support_tickets,2026-04-10,"Exactly what I wanted: a device that setup loops forever. Support, can you help?",setup,True,True,False,False,ST-000763
+support_tickets,2025-01-23,Exactly what I wanted: a device that needs charging twice a day. ugh,battery,True,True,False,False,ST-016036
+app_store_reviews,2025-07-28,"Exactly what I wanted: a device that barely lasts 3 hours. Also, the installation onboarding is broken.",battery|setup,True,True,False,False,AR-011549
+product_reviews,2026-05-28,Five stars for making sure the charging barely lasts 5 hours!! Just kidding. Hope the next patch sorts it out.,battery,True,True,False,False,PR-013857
+product_reviews,2025-06-09,"Amazing job, Lumen—now my sound volume is too low. Expected better from Lumenn.",audio,True,True,True,False,PR-010093
+app_store_reviews,2026-01-25,Exactly what I wanted: a device that refuses to pair. Hope the next patch sorts it out.,connectivity,True,True,False,False,AR-010037
+app_store_reviews,2026-06-03,Five stars for making sure the charge dies before lunch. Just kidding.,battery,True,True,False,False,AR-006652
+support_tickets,2026-04-10,"Five stars for making sure the package box was damaged. Just kidding. Also, the firmware stutters constantly. Would not recommend right now.",delivery|performance,True,True,False,False,ST-008900
+product_reviews,2026-05-09,"Amazing job, Lumen—now my charging drains while idle. Hope the next patch sorts it out.",battery,True,True,False,False,PR-004762
+product_reviews,2026-05-21,"Amazing job, Lumen—now my volume sound crackles. Would not recommend right now.",audio,True,True,False,False,PR-007210
+support_tickets,2025-02-12,"Amazing job, Lumen—now my pairing forgets my device. Hope the next patch sorts it out.",connectivity,True,True,False,False,ST-013157
+app_store_reviews,2025-12-17,"Love paying premium prices so the app keeps crashing. Support, can you help?",performance,True,True,False,False,AR-011654
+support_tickets,2026-05-01,Love paying premium prices so the fit fit is uncomfortable... Hope the next patch sorts it out. ???,design,True,True,False,False,ST-016617
+product_reviews,2025-09-14,"Amazing job, Lumen—now my charging needs charging twce a day. Hope the next patch sorts it out.",battery,True,True,True,False,PR-003451
+app_store_reviews,2026-01-20,"Five stars for making sure the sync forgets my device. Just kidding. Support, can you help?",connectivity,True,True,False,False,AR-010416
+support_tickets,2026-04-29,"Five stars for making sure the sound audio cuts out. Just kidding. Also, the box replacement never came. Expected better from Lumen.",audio|delivery,True,True,False,False,ST-015605
+product_reviews,2026-03-08,Five stars for making sure the volume volume is too low. Just kidding.,audio,True,True,False,False,PR-015066
+support_tickets,2025-09-04,Love paying premium prices so the connection refuses to pair!! This is getting old.,connectivity,True,True,False,False,ST-009306
+app_store_reviews,2025-08-07,"Amazing job, Lumen—now my wifi drops the connection.",connectivity,True,True,False,False,AR-001536
+product_reviews,2025-09-25,"Love paying premium prices so the charging won't hold a charge. Support, can you help?",battery,True,True,False,False,PR-010577
+product_reviews,2025-08-25,"Five stars for making sure the noise cancellation microphone sounds muffled. Just kidding. Also, the screen lags after every tap. Expected better from Lumen.",audio|performance,True,True,False,False,PR-011780
+app_store_reviews,2026-03-23,"Amazing job, Lumen—now my battery barely lasts 6 hours. Also, the app became painfully slow.",battery|performance,True,True,False,False,AR-009690
+app_store_reviews,2025-02-10,Five stars for making sure the interface stutters constantly... Just kidding. Hope the next patch sorts it out. :/,performance,True,True,False,False,AR-009549
+app_store_reviews,2026-03-30,Five stars for making sure the installation login never completes. Just kidding. Expected better from Lumen.,setup,True,True,False,False,AR-001926
+support_tickets,2025-08-19,"Amazing job, Lumen—now my box replacement never came. Expected better from Lumen.",delivery,True,True,False,False,ST-017611
