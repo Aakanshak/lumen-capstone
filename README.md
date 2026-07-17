@@ -1,6 +1,11 @@
 # Lumen Voice of Customer Analytics
 
 > Portfolio-grade NLP decision system for turning 50K+ unstructured customer comments into a ranked product backlog.
+> ## Live application
+
+**Streamlit dashboard:** https://dynamic-pricing-promotion-optimization.streamlit.app/
+
+**GitHub repository:** https://github.com/Aakanshak/lumen-capstone
 
 ## Project status
 
